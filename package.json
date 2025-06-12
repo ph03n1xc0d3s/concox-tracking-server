@@ -1,0 +1,22 @@
+{
+  "name": "concox-tracking-server",
+  "version": "1.6.9",
+  "description": "Concox tracking server built in node js. ",
+  "main": "tcp-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph03n1xc0d3s/concox-tracking-server.git"
+  },
+  "author": "Vaibhav Maini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph03n1xc0d3s/concox-tracking-server/issues"
+  },
+  "homepage": "https://github.com/ph03n1xc0d3s/concox-tracking-server#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
